@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Vjezba01_Ozretić\Zad1\bin\Debug\Zad1.exe.config
+C:\Users\User\Desktop\Vjezba01_Ozretić\Zad1\bin\Debug\Zad1.exe
+C:\Users\User\Desktop\Vjezba01_Ozretić\Zad1\bin\Debug\Zad1.pdb
+C:\Users\User\Desktop\Vjezba01_Ozretić\Zad1\obj\Debug\Zad1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Vjezba01_Ozretić\Zad1\obj\Debug\Zad1.exe
+C:\Users\User\Desktop\Vjezba01_Ozretić\Zad1\obj\Debug\Zad1.pdb
