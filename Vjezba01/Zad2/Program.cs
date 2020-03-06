@@ -22,6 +22,7 @@ namespace Zad2
             {
                 Console.WriteLine("CHECKED and CAUGHT:  " + e.ToString());
             }
+            Console.WriteLine(num2);
             Console.ReadKey();
         }
     }

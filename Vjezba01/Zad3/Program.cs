@@ -45,9 +45,10 @@ namespace Zad3
                     string type = Console.ReadLine();
                     Console.WriteLine("Unesite broj racuna: ");
                     string number = Console.ReadLine();
-                    Enum.TryParse(type, out AccType accountType);
-
-                    bankAccountsList.Add(new BankAccount(accountType, number));
+                    if(Enum.TryParse(type, out AccType accountType))
+                    {
+                        bankAccountsList.Add(new BankAccount(accountType, number));
+                    }
                 }
                 else if (x == "0")
                 {
