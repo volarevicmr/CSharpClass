@@ -9,14 +9,21 @@ namespace Zad3
     public enum AccType
     {
         Stednja,
-        TekuciRacun,
-        ZiroRacun
+        Tekuci,
+        Ziro
     };
     class BankAccount
     {
         public string AccNumber { get; set; }
         public double balance { get; set; }
         public AccType type { get; set; }
+
+        public BankAccount(AccType accType, string accNumber)
+        {
+            AccNumber = accNumber;
+            balance = 0;
+            type = accType;
+        }
     }
 
 }
